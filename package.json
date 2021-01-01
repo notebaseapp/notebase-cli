@@ -1,0 +1,19 @@
+{
+  "name": "notebase",
+  "version": "0.0.1",
+  "description": "Notebase CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notebaseapp/notebase-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notebaseapp/notebase-cli/issues"
+  },
+  "homepage": "https://github.com/notebaseapp/notebase-cli#readme"
+}
